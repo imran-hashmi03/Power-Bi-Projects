@@ -1,2 +1,5 @@
 # power-bi-projects
-Data analysis and visualization projects Business intelligence dashboards Data science experiments
+Data analysis and visualization project
+dashboards Data science experiments
+Report of a Store
+Sales Overview
